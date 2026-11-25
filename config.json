@@ -1,0 +1,12 @@
+{
+    "theme": "purple",
+    "opacity": 50,
+    "acrylic": true,
+    "glass_titlebar": true,
+    "custom_prompt": true,
+    "startup_panel": true,
+    "powerline": true,
+    "font_face": "Cascadia Code PL",
+    "set_default_terminal": true,
+    "custom_colors": {}
+}
